@@ -1,7 +1,7 @@
 # WPeace-HcH 👋  
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=WPeace-HcH)
 <br/>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=WPeace-HcH&show_icons=true&icon_color=FAAF00&text_color=718096&theme=radical&include_all_commits=false&hide=prs,contribs" />  
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=WPeace-HcH&show_icons=true&icon_color=FAAF00&text_color=718096&theme=radical&hide=prs,contribs&include_all_commits=false" />  
 
 - 🌱 I’m a **threat intelligence analyst** in *China*.  
 - 🔭 Focus on **BOTNET** and **APT**.  
