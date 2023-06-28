@@ -1,5 +1,5 @@
 # WPeace-HcH 👋  
-![visitors](https://visitor-badge.glitch.me/badge?page_id=WPeace-HcH)
+![](https://komarev.com/ghpvc/?username=WPeace-HcH)
 <br/>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=WPeace-HcH&show_icons=true&icon_color=FAAF00&text_color=718096&theme=radical&hide=prs,contribs&include_all_commits=false" />  
 
